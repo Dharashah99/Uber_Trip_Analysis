@@ -95,5 +95,6 @@ ________________________________________
 ✅ Conclusion
 This Power BI project demonstrates how ride-sharing trip data can be transformed into meaningful business intelligence. The dashboard enables performance tracking, operational efficiency improvement, and strategic decision-making through clear KPIs and interactive visualizations.
 
-What the Dashboard looks like https://github.com/Dharashah99/Uber_Trip_Analysis/blob/main/Dashboard_Overview.png
+What the Dashboard looks like <img width="1410" height="790" alt="image" src="https://github.com/user-attachments/assets/ee89c87d-3a29-4ce1-b3ab-b549b9c3d9f7" />
+
 
