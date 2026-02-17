@@ -3,10 +3,13 @@
 Uber Trip Analysis Dashboard 
 ________________________________________
 2. Short Description / Purpose
+   
 This project presents an interactive Power BI dashboard built to analyze Uber trip data. The dashboard provides actionable insights into booking trends, revenue performance, trip distances, vehicle preferences, payment methods, and time-based demand patterns.
 It helps stakeholders monitor operational performance, identify high-demand periods and locations, and optimize fleet allocation and pricing strategies.
 ________________________________________
+
 3. Tech Stack
+   
 •	📊 Power BI Desktop – Data modeling, DAX calculations, and dashboard development
 
 •	📂 Power Query – Data cleaning and transformation (ETL)
@@ -20,7 +23,7 @@ ________________________________________
 
 
 4. Features and Highlights
-5. 
+   
 🔹 Business Problem
 Ride-sharing companies generate massive trip-level data daily. Without structured analytics, it becomes difficult to:
 
@@ -65,45 +68,66 @@ ________________________________________
 2️⃣ Overview Analysis 
 
 ✔ Total Bookings by Payment Type (Donut Chart)
+
 •	Uber Pay dominates transactions
+
 •	Cash contributes a significant portion
+
 •	Digital wallet methods contribute smaller shares
 
 ✔ Bookings by Trip Type (Day vs Night)
+
 •	Day trips represent a larger share of total bookings
+
 •	Night trips still contribute a substantial volume
 
 ✔ Vehicle Type Analysis (Table View)
+
 •	Comparison across UberX, UberXL, Uber Black, Uber Green, Uber Comfort
+
 •	Metrics include bookings, revenue, average booking value, and trip distance
 
 ✔ Location Analysis
+
 •	Most frequent pickup point: Penn Station / Madison Sq West
+
 •	Most frequent drop-off point: Upper East Side North
+
 •	Farthest trip insight included
+
 •	Most preferred vehicle per pickup location
 
 ________________________________________
 
 3️⃣ Time Analysis 
+
 ✔ Total Bookings by Pickup Time (Line Chart)
+
 •	Low activity during early morning (2 AM–5 AM)
+
 •	Gradual increase after 6 AM
+
 •	Peak demand during afternoon and early evening
+
 •	Decline after 9 PM
 
 ✔ Bookings by Day Name
+
 •	Highest bookings on weekends (Saturday & Sunday)
+
 •	Friday shows noticeable dip compared to mid-week
 
 ✔ Heatmap (Hour vs Day)
+
 •	Identifies peak hourly demand across weekdays
+
 •	Strong concentration during business hours and weekend afternoons
 ________________________________________
 
 4️⃣ Details Page
 
 A detailed tabular breakdown including:
+
 •	Trip ID
 •	Pickup Date & Hour
 •	Vehicle Type
